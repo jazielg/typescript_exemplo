@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "target":"es6",
+        "noImplicitAny": true,
+        "removeComments": true,
+        "preserveConstEnums": true,
+        "outFile": "./app/js/app.js",
+        "sourceMap": false
+    },
+    "include": [
+        "app/ts/**/*"
+    ],
+}
