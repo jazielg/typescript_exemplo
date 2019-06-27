@@ -1,7 +1,7 @@
 {
   "name": "typescript-alura",
   "version": "1.0.0",
-  "description": "",
+  "description": "``` npm run compile npm run compile:watch ```",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,7 +11,16 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "typescript": "^3.5.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jazielg/typescript_exemplo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jazielg/typescript_exemplo/issues"
+  },
+  "homepage": "https://github.com/jazielg/typescript_exemplo#readme"
 }
